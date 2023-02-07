@@ -3,6 +3,21 @@ entries:
   spark-operator:
   - apiVersion: v2
     appVersion: v1beta2-1.3.8-3.1.1
+    created: "2023-02-07T02:37:07.582485573Z"
+    description: A Helm chart for Spark on Kubernetes operator
+    digest: d3e61b5f5bf94320032a9158e5261b176e62bb66cb78232872d977be6c0c9879
+    home: https://github.com/GoogleCloudPlatform/spark-on-k8s-operator
+    keywords:
+    - spark
+    maintainers:
+    - email: derek.brown@lacework.net
+      name: derektbrown
+    name: spark-operator
+    urls:
+    - https://github.com/lacework-dev/spark-on-k8s-operator/releases/download/spark-operator-chart-1.1.29/spark-operator-1.1.29.tgz
+    version: 1.1.29
+  - apiVersion: v2
+    appVersion: v1beta2-1.3.8-3.1.1
     created: "2023-01-31T23:36:02.084112-08:00"
     description: A Helm chart for Spark on Kubernetes operator
     digest: 9087b5b4cf83936bb0034bd24bd77e9aa6bc743003fc685221526f6d69a42042
@@ -16,4 +31,4 @@ entries:
     urls:
     - https://github.com/lacework-dev/spark-on-k8s-operator/releases/download/spark-operator-chart-1.1.28/spark-operator-1.1.28.tgz
     version: 1.1.28
-generated: "2023-01-31T23:36:02.08412-08:00"
+generated: "2023-02-07T02:37:07.582497373Z"
